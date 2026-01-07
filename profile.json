@@ -1,0 +1,7 @@
+{
+  "target_roles": ["Data Analyst", "Business Analyst"],
+  "experience_years": 0,
+  "skills": ["SQL", "Python", "Excel", "Power BI"],
+  "preferred_locations": ["Bangalore", "Remote"],
+  "expected_ctc_lpa": { "min": 6, "max": 10 }
+}

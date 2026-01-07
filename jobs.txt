@@ -1,0 +1,179 @@
+===== JOB 1 =====
+
+Title : Data Analyst
+Location: Bangalore
+Type: Full-time
+
+
+About Us
+We’re a fast-growing marketing company building scalable platforms for lead generation, affiliate marketing, and campaign optimization.
+Growth Fusion is hiring a Data Analyst with strong SQL, Looker Studio, Excel, and digital marketing knowledge. If you love working with data, optimizing campaigns, and supporting decision-making in a fast-paced performance marketing environment, we want to meet you.
+
+
+Responsibilities
+Build, maintain, and optimize Looker Studio dashboards for reporting and insights.
+Write, run, and optimize complex SQL queries across BigQuery and other databases.
+Analyze digital marketing performance metrics (CTR, CPC, CPL, ROAS, AOV, EPC).
+Clean, structure, and validate large datasets to ensure accuracy.
+Collaborate with media buyers to provide insights that improve campaign performance.
+Automate weekly/monthly reporting using SQL, Looker Studio, or Excel.
+Create Excel-based analysis (pivot tables, lookups, advanced formulas).
+Identify trends, anomalies, and opportunities for scaling campaigns.
+
+
+Requirements
+1–3 years experience in Data Analytics.
+Strong command of SQL (joins, CTEs, data transformations).
+Hands-on experience with Looker Studio dashboards.
+Advanced Excel skills (Pivot Tables, HLOOKUP, VLOOKUP, PowerQuery a plus).
+Understanding of digital marketing KPIs and funnel metrics.
+Strong problem-solving ability and attention to detail.
+Ability to work onsite and collaborate with cross-functional teams.
+
+
+Nice to Have
+Experience with RedTrack, Voluum, Everflow, or other tracking platforms.
+Exposure to BigQuery or similar data warehouses.
+Basic Python for automation (optional).
+Understanding of Meta, Google, Snap, TikTok ad platforms.
+
+
+Why Join Growth Fusion
+Health Insurance.
+Learning-focused environment with mentorship from experienced developers.
+Exposure to real-world scaling challenges (traffic, performance, uptime).
+Flat hierarchy, flexible work culture, and true ownership of your projects.
+
+
+
+
+===== JOB 2 =====
+
+About the job
+The Business Analyst – Warehouse Operations will play a key role in analyzing and optimizing data related to warehouse performance, fulfillment, and logistics activities. This role is site-based and requires close collaboration with on-ground teams to ensure efficient operations across Maersk’s warehouse network, including CFS, CY, inland depots, and bonded warehouses.
+
+Key Responsibilities:
+
+Collect, analyze, and interpret operational data from warehouse systems to identify trends, inefficiencies, and improvement opportunities.
+Develop and maintain dashboards and reports using Power BI to provide real-time insights for decision-making.
+Utilize SQL and other analytical tools to extract and manage data from multiple sources.
+Support warehouse planning and execution by providing analytical input on inventory, order fulfillment, and performance metrics.
+Partner with operational teams to ensure data accuracy, consistency, and alignment with business objectives.
+Assist in developing standardized data processes and reporting frameworks to improve operational visibility.
+
+Who we’re looking for:
+
+Proficiency in Power BI, SQL, and Excel.
+Strong analytical mindset with attention to detail and problem-solving skills.
+Basic understanding of warehouse and fulfillment operations.
+Ability to work independently within defined guidelines and escalate complex issues when needed.
+Prior experience in logistics, supply chain, or warehouse analytics is an advantage.
+
+This role falls under the Fulfillment & Logistics Operations Execution stream, which includes positions that manage and execute warehouse and fulfillment activities. As part of the administrative stream, this role supports operations by performing technical and analytical tasks to drive efficiency and operational excellence.
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com.
+
+
+
+===== JOB 3 =====
+
+About the job
+Who We Are: 
+
+Take-Two Interactive Software, Inc. is a leading developer, publisher, and marketer of interactive entertainment for consumers around the globe. The Company develops and publishes products principally through Rockstar Games, 2K, Private Division, and Zynga. Our products are currently designed for console gaming systems, PC, and Mobile, including smartphones and tablets, and are delivered through physical retail, digital download, online platforms, and cloud streaming services. The Company’s common stock is publicly traded on NASDAQ under the symbol TTWO.
+
+While our offices (physical and virtual) are casual and inviting, we are deeply committed to our core tenets of creativity, innovation and efficiency, and individual and team development opportunities. Our industry and business are continually evolving and fast-paced, providing numerous opportunities to learn and hone your skills. We work hard, but we also like to have fun, and believe that we provide a great place to come to work each day to pursue your passions.
+
+The Challenge :
+
+The data engineering team at Take-Two is looking for a highly motivated, capable and detail-oriented Data Analyst with strong analytical and problem-solving skills to join a team that plays an essential business facing function. As Take-Two grows, we need to enable our business partners to expertly make decisions based on the vast amounts of data we have at our disposal. This role is critical to building solutions that help provide actionable data insights. To ensure success in this role, the candidate should be able to thrive in ambiguity, work independently while being a team player and have a strong curiosity to uncover insights that drive business impact.
+
+The ideal candidate will have a solid foundation in data analysis, data mining, data manipulation, and data visualization. In addition to analytical expertise, the successful candidate will possess excellent client-facing skills. The Data Analyst will work as part of multi-functional technical teams alongside business solutions analysts, data engineers and other team members to deliver impactful data solutions to challenging user and business problems/needs.
+
+What You’ll Take On :
+
+Translate business problems into data-driven solutions using statistical and analytical techniques.
+Build and maintain dashboards, reports, and data models to support decision-making.
+ Conduct deep-dive analysis into the data to support strategic projects, new initiatives, and process improvements.
+Lead the identification of issues and incidents, conduct business impact analysis, and engage with the wider team for resolution 
+Ensure accuracy, consistency, and integrity of data used for analysis and reporting.
+
+What You Bring :
+
+At least 2+years of work experience post completion of college degree is a must. This role is not open to individuals with only internship work experience.
+Strong analytical & problem-solving skills, with 3+ years of SQL proficiency.
+Excellent communication skills with the ability to present insights clearly to non-technical audiences.
+Experience with BI/analytics tools (e.g., Tableau, Power BI, Python) is nice to have.
+Experience working with large datasets and cloud platforms (AWS, GCP, or Azure) is a plus.
+
+What We Offer You: 
+
+Great Company Culture. We pride ourselves as being one of the most creative and innovative places to work, creativity, innovation, efficiency, diversity and philanthropy are among the core tenets of our organization and are integral drivers of our continued success.
+Growth: As a global entertainment company, we pride ourselves on creating environments where employees are encouraged to be themselves, inquisitive, collaborative and to grow within and around the company.
+Work Hard, Enjoy Life. Our employees’ bond, blow-off steam, and flex some creative muscles – through corporate boot camp classes, company parties, our Office gaming spaces, game release events, monthly socials, and team challenges.
+Benefits. Benefits include, but are not limited to; Discretionary bonus, Provident fund contributions, 1+5 medical insurance + top up options and access to Practo online Doctor consultation App, Employee assistance program, 3X CTC Life Assurance, 3X CTC Personal accident insurance, childcare services, 20 days holiday + statutory holidays,
+Perks. Gym reimbursement up to INR1150 per month, wellbeing program with the chance to earn up to $93 per annum, charitable giving program, access to learning platforms, employee discount program’s plus free games and events!
+
+Take-Two Interactive Software, Inc. (“T2”) is proud to be an equal opportunity employer, which means we are committed to creating and celebrating diverse thoughts, cultures, and backgrounds throughout our organization. Employment at T2 is based on substantive ability, objective qualifications, and work ethic – not an individual’s race, creed, color, religion, sex or gender, gender identity or expression, sexual orientation, national origin or ancestry, alienage or citizenship status, physical or mental disability, pregnancy, age, genetic information, veteran status, marital status, status as a victim of domestic violence or sex offenses, reproductive health decision, or any other characteristics protected by applicable law.
+
+
+===== JOB 4 =====
+
+
+About the job
+BI Engineer/ Data Analyst
+
+Let’s be unstoppable together!
+
+At Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives. We have a global commitment to diversity, equity, and inclusion as we believe in the undeniable strength that diversity brings to our business, employees, clients, and communities. With us, you can always bring your full self to work. Join our inclusive, committed team to be a challenger, own outcomes, and stay curious together. Circana is proud to be Certified™ by Great Place To Work®. This prestigious award is based entirely on what current employees say about their experience working at Circana.
+
+What will you be doing? 
+
+The BI Engineer II will be collaborating with team members to create rich reporting and data visualizations, enabling leaders to quickly digest information and make decisions. You will use your understanding of data visualization, analytics, and statistics to communicate valuable insights that enable functional leaders to quickly digest information and make decisions.
+
+Job Responsibilities
+
+Utilize the business intelligence enterprise development suite to create, maintain and publish reports, dashboards, scorecards, and other visual information displays through front end interfaces as well as through application and database programming. 
+Collaborate with team members to understand business insight needs from clients, product teams, and other commercially facing business units, and how those needs translate to functional requirements. 
+Write stable, abstracted, reusable, and efficient code. 
+Design and utilize automation methods and discover efficiencies where possible. 
+Work with managers to identify and understand data visibility gaps. 
+Provide content to our dataviz knowledge base. 
+Proactively develop and maintain technical knowledge in BI, Reporting, and Visualizations. 
+
+Requirements
+
+3+ years of hands-on experience in the data/BI space. 
+Degree or equal work experience in Computer/Data Science, Technology and/or other related fields; advanced degrees and/or specializations a plus. 
+Experience in one or more business intelligence technologies, with the ability to visualize and report data insights clearly. 
+Thrives in a diverse team. Collaborates well with team members, colleagues, and clients. 
+Passion for data and its fundamental ability to create value. 
+Good communicator able to articulate concepts to peers, clients, and managers. 
+Continuous learner, expanding current skillset as well as new technologies identified by the business. 
+Proven development skills in Business Intelligence tools, including, but not limited to, PowerBI, MicroStrategy, and Tableau. Experience in Circana tools Unify+, Genius Script, and Intelligence Suite preferred. 
+Demonstrated experience building measures and metrics, defining custom dimensions and tuning performance for a superior user experience. 
+Experience in Power Platform including Power Apps and Power Automate. 
+Fluent in SQL, Pyspark, R, Python, or Scala. 
+Experience in agile development teams such as scrum and Kanban, as well as DevOps development environment. 
+Understanding of database structure principles required. 
+Preferred experience Javascript and/or CSS experience. 
+
+Circana Behaviors
+
+As well as the technical skills, experience and attributes that are required for the role, our shared behaviors sit at the core of our organization. Therefore, we always look for people who can continuously champion these behaviors throughout the business within their day-to-day role:
+
+Stay Curious: Being hungry to learn and grow, always asking the big questions. 
+Seek Clarity: Embracing complexity to create clarity and inspire action. 
+Own the Outcome: Being accountable for decisions and taking ownership of our choices. 
+Center on the Client: Relentlessly adding value for our customers. 
+Be a Challenger: Never complacent, always striving for continuous improvement. 
+Champion Inclusivity: Fostering trust in relationships engaging with empathy, respect, and integrity. 
+Commit to each other: Contributing to making Circana a great place to work for everyone. 
+
+Location 
+
+This position can be located in the following area(s): Bangalore
+
+“An offer of employment may be conditional upon successful completion of a background check in accordance with local legislation and our candidate privacy notice. Your current employer will not be contacted without your permission”
